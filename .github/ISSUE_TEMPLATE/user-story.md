@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Need the ability to remove a counter
+Need the ability to update a counter to a new value.
