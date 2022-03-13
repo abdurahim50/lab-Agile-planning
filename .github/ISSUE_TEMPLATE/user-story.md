@@ -1,10 +1,10 @@
 ---
 name: user story
-about: This template contain a user stories
+about: user story template
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Deploy service to the cloud.
+Need the ability to remove a counter
